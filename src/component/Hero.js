@@ -19,7 +19,7 @@ export default class Introduction extends Component {
               </div>
 
               <p >
-                <code>&lt; h1 &gt;</code>Hello There        <div className='wave'>👋</div>{' '}np, I'm Petra<code>&lt;/ h1 &gt;</code>
+                <code>&lt; h1 &gt;</code>Hello There  <div className='wave'>👋</div>, I'm Petra<code>&lt;/ h1 &gt;</code>
          
               </p>
               <p>
