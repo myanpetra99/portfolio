@@ -8,6 +8,11 @@
   height: 30vmin;
   pointer-events: none;
   border-radius: 100%;
+  animation-name: App-logo-spin;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;
+  animation-direction: alternate;
 
 }
 
@@ -29,16 +34,6 @@
   animation-timing-function: ease-in-out;
   animation-direction: alternate-reverse;
   background-color: #61dafb;
-  padding: 0.5vmin;
-}
-
-.container-logo2 {
-  animation-name: App-logo-spin;
-  animation-duration: 4s;
-  animation-iteration-count: infinite;
-  animation-timing-function: ease-in-out;
-  animation-direction: alternate;
-  background-color: #3e6effd9;
   padding: 0.5vmin;
 }
 
