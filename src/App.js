@@ -1,9 +1,8 @@
 import './App.css'
-import Navbar from './component/Navbar'
+
 import Hero from './component/Hero'
 import Profile from './component/Profile'
-import 'react-vertical-timeline-component/style.min.css'
-import Timeline from './component/Timeline'
+
 
 function App () {
   return (
@@ -15,7 +14,6 @@ function App () {
             <code>&lt; html &gt;</code>
             <code>&lt; body &gt;</code>
             <Hero />
-            <Profile />
             <div className='row'>
               <div className='column'>
                 <code>&lt;/ body &gt;</code>
